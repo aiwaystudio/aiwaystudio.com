@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AIWAY OS on AIWAY Studio</title>
-    <link>/pt/tags/aiway-os/</link>
-    <description>Recent content in AIWAY OS on AIWAY Studio</description>
-    <generator>Hugo</generator>
-    <language>pt</language>
-    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/pt/tags/aiway-os/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>O Que É o AIWAY OS — E Porque a Maioria das Organizações Não Precisa Dele (Ainda)</title>
-      <link>/pt/insights/aiway-os/</link>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/pt/insights/aiway-os/</guid>
-      <description>&lt;p&gt;Há um momento em qualquer programa de IA em maturação em que a conversa muda.&lt;/p&gt;&#xA;&lt;p&gt;Deixa de ser sobre que ferramentas adotar. Passa a ser sobre como operar o que já se construiu.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AIWAY OS on AIWAY Studio</title><link>/pt/tags/aiway-os/</link><description>Recent content in AIWAY OS on AIWAY Studio</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/pt/tags/aiway-os/index.xml" rel="self" type="application/rss+xml"/><item><title>O Que É o AIWAY OS — E Porque a Maioria das Organizações Não Precisa Dele (Ainda)</title><link>/pt/insights/aiway-os/</link><pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate><guid>/pt/insights/aiway-os/</guid><description>&lt;p&gt;Há um momento em qualquer programa de IA em maturação em que a conversa muda.&lt;/p&gt;
+&lt;p&gt;Deixa de ser sobre que ferramentas adotar. Passa a ser sobre como operar o que já se construiu.&lt;/p&gt;</description></item></channel></rss>
