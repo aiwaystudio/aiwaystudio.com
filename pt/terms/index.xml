@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Termos de Serviço on AIWAY Studio</title>
+    <link>/pt/terms/</link>
+    <description>Recent content in Termos de Serviço on AIWAY Studio</description>
+    <generator>Hugo</generator>
+    <language>pt</language>
+    <atom:link href="/pt/terms/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
